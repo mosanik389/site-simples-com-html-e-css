@@ -1,0 +1,33 @@
+body {
+background-color: aliceblue;
+}
+
+h1,h2{
+text-align: center;
+color: brown;
+font-weight: bolder;
+}
+div{
+    /* background-image: url(https://images.app.goo.gl/MFTZ4oV2WW8aiDTE7>
+    height: 400px;
+    width: 100%
+
+ }
+p{
+
+color: black;
+font-weight: bolder;
+font-size: 30px;
+ }
+
+ul li{
+
+text-decoration: underline;
+color: aliceblue;
+font-weight: bolder;
+ }
+
+figure{
+text-align-last: center;
+border: 300px dashed #ee82ee;
+}
